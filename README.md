@@ -1,1 +1,1 @@
-# benim_patikam
+https://app.patika.dev/ybay
